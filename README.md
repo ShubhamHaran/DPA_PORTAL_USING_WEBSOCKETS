@@ -5,9 +5,9 @@ The following is a doctor-patient-ambulance portal using Java Web Servlets.
 <img src="WebSocket3/WebContent/Web sockets/doctor.PNG" height="200" width="300">
 <img src="WebSocket3/WebContent/Web sockets/ambulance.PNG" height="200" width="300">
 <h1>Upon loging in, we get the respective index pages based on the roles.</h1>
-<img src="WebSocket3/WebContent/Web sockets/patient home screen.PNG" height="200" width="300">
-<img src="WebSocket3/WebContent/Web sockets/dochs.PNG" height="200" width="300">
-<img src="WebSocket3/WebContent/Web sockets/ambuhs.PNG" height="200" width="300">
+<img src="WebSocket3/WebContent/Web sockets/patient home screen.PNG" height="300" width="500">
+<img src="WebSocket3/WebContent/Web sockets/dochs.PNG" height="300" width="500">
+<img src="WebSocket3/WebContent/Web sockets/ambuhs.PNG" height="300" width="500">
 
 
 
