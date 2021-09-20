@@ -16,6 +16,8 @@ The following is a doctor-patient-ambulance portal using Java Web Servlets.
 <img src="WebSocket3/WebContent/Web sockets/ambulancesummon.PNG" height="300" width="900">
 <h1>If the doctor thinks the situation can be looked after, medicine is prescribed along with some description that is immediately reflected at the doctor's end in real-time. </h1>
 <img src="WebSocket3/WebContent/Web sockets/medicationdoc.PNG" height="300" width="900">
+<h1>If the ambulance is summoned or if the medicine is prescribed then it's simultaneously reflected at the patient's end. </h1>
+<img src="WebSocket3/WebContent/Web sockets/patientupdate.PNG" height="300" width="900">
 
 
 
